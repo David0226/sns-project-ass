@@ -8,6 +8,6 @@ public class User {
     private String password;
 
     public static User fromEntity(UserEntity entity){
-        return
+        return 0
     }
 }
